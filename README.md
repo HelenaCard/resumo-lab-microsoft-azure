@@ -4,6 +4,12 @@ Neste laboratório, aprendemos a criar uma conta no Microsoft Azure e a configur
 
 Exploramos um pouco dos serviços prévios do produto e as garantias oferecidas. Podemos entender que o serviço em nuvem é muito importante para desenvolvedores, pessoas que trabalham com inteligência artificial e outros profissionais que desejam se capacitar.
 
+
+### Documento com mais informações
+
+[Resumo_Laboratorio_Microsoft_Azure.pdf](https://github.com/user-attachments/files/20559348/Resumo_Laboratorio_Microsoft_Azure.pdf)
+
+
 1° [Faça o cadastro gratuito](https://signup.azure.com/signup?offer=ms-azr-0044p&appId=102&ref=&redirectURL=https:%2F%2Fazure.microsoft.com%2Fget-started%2Fwelcome-to-azure%3Fsrc%3Dacom_free&l=pt-br)
 
 2° [Para estudantes - Gratuito](https://azure.microsoft.com/en-us/free/students)
