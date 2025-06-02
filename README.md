@@ -1,6 +1,6 @@
 ### Resumo do laboratório Microsoft Azure do Bootcamp Computação em nuvem co Azure da plataforma DIO.ME.
 
-Neste laboratório, aprendemos a criar uma conta no Microsoft Azure e a configurar recursos na plataforma, tais como a conta do usuário, verificação da disponibilidade de serviços, configuração de firewall, criação de máquinas virtuais e outros.
+Neste laboratório, criamos uma conta no Microsoft Azure e a configurar recursos na plataforma, tais como a conta do usuário, verificação da disponibilidade de serviços, configuração de firewall, criação de máquinas virtuais e outros.
 
 Exploramos um pouco dos serviços prévios do produto e as garantias oferecidas. Podemos entender que o serviço em nuvem é muito importante para desenvolvedores, pessoas que trabalham com inteligência artificial e outros profissionais que desejam se capacitar.
 
